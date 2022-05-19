@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;800;900&family=Orelega+One&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+/*Первая секция*/
+
+.block-header {
+    min-height: 600px;
+    background-image: url(https://mebel-go.ru/mebelgoer/8874124.jpg);
+    background-size: cover;
+    background-color: rgba(34, 34, 34, 0.685);
+    color: aliceblue;
+}
+/*Заголовок первого блока*/
+
+.text-header {
+    margin: 0;
+    margin-top: 20%;
+    font-weight: bold;
+}
+/* текст "УСЛУГИ" в блоке 3*/
+#first-txt3 {
+    color: rgba(89, 56, 56, 0.544);
+    margin-top: 90px;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+/* Текст "Что мы предлагаем" в блоке 3 */
+#second-txt3 {
+    color: white;
+    margin-top: 0;
+}
+/* Размер и цвет в контейнере блока 3*/
+
+#text-size {
+    color: white;
+    font-size: 11px;
+}
+/* Блок 4 с картинкой */
+.block-4 {
+    height: 450px;
+    background-image: url(https://w-dog.ru/wallpapers/10/8/507844464224440/nebo-gory-ozero-derevya-les-pejzazh.jpg);
+    background-size: cover;
+    background-color: rgb(45, 42, 42);
+    color: aliceblue;
+}
+/* Отсутпы заговоловка в 4 блоке*/
+
+#text-end {
+    margin-top: 150px;
+}
+
+
+
